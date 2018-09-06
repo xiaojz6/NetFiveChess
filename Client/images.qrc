@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/App.ico</file>
+        <file>Images/blackstone.gif</file>
+        <file>Images/chessboard.gif</file>
+        <file>Images/Icon.bmp</file>
+        <file>Images/redtriangle.gif</file>
+        <file>Images/whitestone.gif</file>
+    </qresource>
+</RCC>

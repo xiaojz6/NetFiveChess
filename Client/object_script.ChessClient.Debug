@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\dialog.o
+./debug\chessboard.o
+./debug\computer.o
+./debug\fivechessboard.o
+./debug\rule.o
+./debug\stone.o
+./debug\qrc_images.o
+./debug\moc_dialog.o
+./debug\moc_fivechessboard.o
+);

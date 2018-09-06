@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\dialog.o
+./release\chessboard.o
+./release\computer.o
+./release\fivechessboard.o
+./release\rule.o
+./release\stone.o
+./release\qrc_images.o
+./release\moc_dialog.o
+./release\moc_fivechessboard.o
+);
